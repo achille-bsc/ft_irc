@@ -92,8 +92,11 @@ This project is part of the School 42 Common Core. Please respect the school's a
 
 ## 🎓 School 42
 
-This project is part of the School 42 Common Core - Circle 5.
+This project is part of the School 42 Common Core
 
 ---
+
+# This project will be done during the 42 Common Core
+
 
 *Made with ❤️ at School 42*
